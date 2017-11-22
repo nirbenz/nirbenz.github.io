@@ -1,3 +1,7 @@
+#!/usr/bin/env bash
+
+# This runs everyting for assignment 1
+# Author: nirbenz
 export LC_ALL="en_US.UTF-8"
 export LC_CTYPE="en_US.UTF-8"
 sudo dpkg-reconfigure -f noninteractive locales
