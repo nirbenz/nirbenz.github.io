@@ -28,20 +28,20 @@ for VERSION in ${PYTHON_VERSIONS}; do pip$VERSION install --upgrade pip; done
 #
 sudo apt-get install -y libjpeg8-dev
 sudo ln -s /usr/lib/x86_64-linux-gnu/libjpeg.so /usr/lib
-pip install pillow && pip3 install pillow
 sudo apt-get build-dep -y python-imaging
 sudo apt-get install -y libjpeg8 libjpeg62-dev libfreetype6 libfreetype6-dev
 sudo pip install virtualenv && sudo pip3 install virtualenv
 virtualenv .env                  # Create a virtual environment
 source .env/bin/activate         # Activate the virtual environment
 # pip install -r requirements.txt  # Install dependencies
+pip install pillow && pip3 install pillow
 for VERSION in ${PYTHON_VERSIONS}; do pip$VERSION install -r requirements.txt; done && \
     rm requirements.txt
 deactivate
 # add some shortcuts
 echo "bind '\"\e[B\": history-search-forward'" >> ~/.bashrc
 echo "bind '\"\e[A\": history-search-backward'" >> ~/.bashrc
-echo "alias course='source .env/bin/activate'" >> ~/.bashrc
+echo "alias course='source $PWD/.env/bin/activate'" >> ~/.bashrc
 source ~/.bashrc
 # done
 echo "**************************************************"
