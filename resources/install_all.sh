@@ -38,6 +38,12 @@ source .env/bin/activate         # Activate the virtual environment
 for VERSION in ${PYTHON_VERSIONS}; do pip$VERSION install -r requirements.txt; done && \
     rm requirements.txt
 deactivate
+# add some shortcuts
+echo "bind '\"\e[B\": history-search-forward'" >> ~/.bashrc
+echo "bind '\"\e[A\": history-search-backward'" >> ~/.bashrc
+echo "alias course='source .env/bin/activate'" >> ~/.bashrc
+source ~/.bashrc
+# done
 echo "**************************************************"
 echo "*****  End of Google Cloud Set-up Script  ********"
 echo "**************************************************"
