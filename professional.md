@@ -9,8 +9,7 @@ subtitle: What I actually do
 
 ## In a Nutshell
 
-*I am damn good* at solving machine learning business problems and I've been doing that for some of Israel's top startups.
-<!-- (see [Experience]({{ site.baseurl }}/professional/#experience)). -->
+*I am damn good* at solving machine learning business problems and I've been doing that for some of Israel's top startups (see [Experience]({{ site.baseurl }}/professional/#experience)).
 
 **I am a full-stack researcher**, meaning I do everything from research to data management to training and finally deployment. I am a highly experienced technological leader and researcher, with rich theoretical and practical knowledge of machine learning techniques and their usage production environments.
 
@@ -22,9 +21,9 @@ subtitle: What I actually do
 
 **I also consider myself a capable data engineer** with a strong grasp of both Python and the usual rooster of auxiliary tools/frameworks our craft requires. This includes everything from managing annotation databases to querying them.
 
+## Experience
+See my [LinkedIn profile](https://www.linkedin.com/in/nir-ben-zvi/){:target="_blank"} :)
+
 ## Working Together
 
-If you feel like this is up your alley, let's talk.
-
-<!-- ## Experience
-\#TODO -->
+If you feel like this is up your alley, let's [talk](mailto:me@nirbenzvi.com).
