@@ -24,12 +24,12 @@ github: [metadata]
 ###############################################
 
 navbar-links:
-  About: ""
+  About: "index"
   Freelance: "professional"
   Teaching:
     - CS231n: "cs231n"
     - Lectures: "lectures"
-  Writing: "blog"
+  # Writing: "blog"
 
 paginate_path: "/blog/page:num/"
 
@@ -111,8 +111,8 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 # those are custom
-navbar-col: "#029EB9"
-footer-col: "#029EB9"
+navbar-col: "#F4A053"
+footer-col: "#F4A053"
 
 # so far unchanged
 navbar-text-col: "#404040"

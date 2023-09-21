@@ -2,10 +2,10 @@
 layout: page
 title: Lectures
 subtitle: I also love talking
-# cover-img: assets/img/tamar_img_c.jpg
+cover-img: assets/img/lecture1.jpg
 ---
 
-I love teaching people with similar backgrounds. It's not my main line of work, but in the past year I've been giving two main talks:
+I love teaching people with all sorts of backgrounds. It's not my main line of work, but in the past year I've been giving two main talks:
 
 1. **What I Talk About When I Talk About Deep Learning** - a 60 minute introductory talk aimed at people with *technicaly backgrounds* that want to understand what deep learning is about. The targeted audience are software engineenirs working on an ML-heavy project who wasnt to better understand the tech jargon that their colleagues use.
 
