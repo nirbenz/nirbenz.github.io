@@ -15,9 +15,18 @@ title: Nir Ben-Zvi
 # Your name to show in the footer
 author: Nir Ben-Zvi
 
+###########################
+# --- Nir Custom options --- #
+###########################
+
+# medium 
+collections:
+  - medium_posts
+
 # Stop Errors
 repository: nirbenz/nirbenz.github.io
 github: [metadata]
+safe: false
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -29,7 +38,7 @@ navbar-links:
   Teaching:
     - CS231n: "cs231n"
     - Lectures: "lectures"
-  # Writing: "blog"
+  Writing: "blog"
 
 paginate_path: "/blog/page:num/"
 
