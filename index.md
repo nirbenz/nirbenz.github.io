@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-subtitle: What have I been up to
-cover-img: assets/img/tamar_img_c.jpg
+title: Hi
+subtitle: Welcome to my professional homepage
+# cover-img: assets/img/tamar_img_exp.jpg
 ---
 
 I'm Nir Ben-Zvi. I am a *freelance machine learning researcher* from Tel-Aviv, Israel.

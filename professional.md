@@ -2,7 +2,7 @@
 layout: page
 title: Professional Background
 subtitle: What I actually do
-# cover-img: assets/img/tamar_img_c.jpg
+cover-img: assets/img/tamar_img_exp.jpg
 ---
 
 ***tl;dr** I do machine learning.*

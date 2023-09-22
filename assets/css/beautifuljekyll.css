@@ -642,6 +642,8 @@ footer .footer-custom-content {
   -o-background-size: cover;
   margin-top: 3.1875rem; /* The small navbar is 50px tall + 1px border */
   margin-bottom: 2.1875rem;
+  /* Nir adds */
+  max-height:  400px;
 }
 nav.top-nav-short-permanent ~ header > .intro-header {
   margin-top: 5rem;
@@ -696,6 +698,14 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 .intro-header.big-img .post-heading .post-subheading {
   font-weight: 400;
 }
+/*Added by Nir*/
+.intro-header.big-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Existing styles... */
+}
+/**/
 .intro-header.big-img .page-heading hr {
   box-shadow: 1px 1px 3px #000;
   -webkit-box-shadow: 1px 1px 3px #000;
