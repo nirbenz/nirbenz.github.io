@@ -18,11 +18,12 @@ module Jekyll
     priority :high
 
     def generate(site)
+      medium_url = "https://medium.com/feed/@" + (site.config["medium_feed"] || "nzvi")
+      puts medium_url
       @post_titles = []
       jekyll_coll = Jekyll::Collection.new(site, 'medium_posts')
       site.collections['medium_posts'] = jekyll_coll
-
-      xml = URI.open("https://medium.com/feed/@nzvi").read
+      xml = URI.open(medium_url).read
       doc = Nokogiri::XML(xml)
       entries = doc.xpath('//channel/item')
 
@@ -66,12 +67,14 @@ end
 
 if is_standalone
   site = Jekyll::Site.new(Jekyll.configuration({
-    "source"      => ".",
-    "destination" => "./_site"
+    "source" => ".",
+    "destination" => "./_site",
+    "medium_feed" => "nzvi"
   }))
   
   generator = Jekyll::MediumPostDisplay.new
   generator.generate(site)
-  printf "%-20s %s\n", "", "Fetched posts:"
+  puts "\n"
+  printf "%-20s %s\n", "", "DEBUG: Fetched posts:"
   printf "%-20s %s\n", "", generator.instance_variable_get(:@post_titles).join("\n")
 end

@@ -27,6 +27,7 @@ collections:
 repository: nirbenz/nirbenz.github.io
 github: [metadata]
 safe: false
+medium_feed: nzvi
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -38,7 +39,7 @@ navbar-links:
   Teaching:
     - CS231n: "cs231n"
     - Lectures: "lectures"
-  # Writing: "blog"
+  Writing: "blog"
 
 paginate_path: "/blog/page:num/"
 
