@@ -38,7 +38,7 @@ navbar-links:
   Teaching:
     - CS231n: "cs231n"
     - Lectures: "lectures"
-  Writing: "blog"
+  # Writing: "blog"
 
 paginate_path: "/blog/page:num/"
 

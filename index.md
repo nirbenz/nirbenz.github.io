@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hi
-subtitle: Welcome to my professional homepage
+subtitle: This is my domain
 # cover-img: assets/img/tamar_img_exp.jpg
 ---
 
