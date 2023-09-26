@@ -5,7 +5,7 @@ subtitle: What I actually do
 cover-img: assets/img/tamar_img_exp.jpg
 ---
 
-***tl;dr** I solve problems that require deep learning/computer vision.*
+***tl;dr** I solve problems that requiregit  deep learning/computer vision.*
 
 ## In a Nutshell
 
@@ -19,7 +19,7 @@ cover-img: assets/img/tamar_img_exp.jpg
 
 **My background ranges from tiny to huge** organizations, includes both individual contribution and management, and revolves around both the latest and deepest trends and the most barebones simple approaches. I have conducted research, trained and deployed models into real products used by real users.
 
-**I also consider myself a capable data engineer** with a strong grasp of both Python and the usual rooster of auxiliary tools/frameworks our craft requires. This includes everything from managing annotation databases to querying them.
+**I also consider myself a capable data engineer** with a strong grasp of both Python and the usual collection of auxiliary tools/frameworks our craft requires. This includes everything from managing annotation databases to querying them.
 
 ## Experience
 See my [LinkedIn profile](https://www.linkedin.com/in/nir-ben-zvi/){:target="_blank"} :)
