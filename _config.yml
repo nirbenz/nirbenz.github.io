@@ -21,7 +21,12 @@ author: Nir Ben-Zvi
 
 # medium 
 collections:
-  - medium_posts
+  # - medium_posts
+  - media
+      # sort_by: date
+
+
+
 
 # Stop Errors
 repository: nirbenz/nirbenz.github.io
@@ -36,12 +41,12 @@ medium_feed: nzvi
 navbar-links:
   About: "index"
   Freelance: "professional"
+  Writing: "content"
   Teaching:
     - CS231n: "cs231n"
     - Lectures: "lectures"
-  Writing: "blog"
 
-paginate_path: "/blog/page:num/"
+paginate_path: "/content/page:num/"
 
 ################
 # --- Logo --- #
