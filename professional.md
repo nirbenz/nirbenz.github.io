@@ -5,11 +5,11 @@ subtitle: What I actually do
 cover-img: assets/img/tamar_img_exp.jpg
 ---
 
-***tl;dr** I do machine learning.*
+***tl;dr** I solve problems that require deep learning/computer vision.*
 
 ## In a Nutshell
 
-*I am damn good* at solving machine learning business problems and I've been doing that for some of Israel's top startups (see [Experience]({{ site.baseurl }}/professional/#experience)).
+*I am damn good* at solving deep learning business problems and I've been doing that for some of Israel's top startups (see [Experience]({{ site.baseurl }}/professional/#experience)).
 
 **I am a full-stack researcher**, meaning I do everything from research to data management to training and finally deployment. I am a highly experienced technological leader and researcher, with rich theoretical and practical knowledge of machine learning techniques and their usage production environments.
 
