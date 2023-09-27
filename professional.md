@@ -5,11 +5,11 @@ subtitle: What I actually do
 cover-img: assets/img/tamar_img_exp.jpg
 ---
 
-***tl;dr** I solve problems that requiregit  deep learning/computer vision.*
+***tl;dr** I solve problems that require deep learning/computer vision.*
 
 ## In a Nutshell
 
-*I am damn good* at solving deep learning business problems and I've been doing that for some of Israel's top startups (see [Experience]({{ site.baseurl }}/professional/#experience)).
+I am *damn good* at solving deep learning business problems and I've been doing that for some of Israel's top startups (see [Experience]({{ site.baseurl }}/professional/#experience)).
 
 **I am a full-stack researcher**, meaning I do everything from research to data management to training and finally deployment. I am a highly experienced technological leader and researcher, with rich theoretical and practical knowledge of machine learning techniques and their usage production environments.
 
@@ -17,7 +17,7 @@ cover-img: assets/img/tamar_img_exp.jpg
 
 **But I also love everything ML** and I've got ranging levels of experience with recommender systems and natural language processing too.
 
-**My background ranges from tiny to huge** organizations, includes both individual contribution and management, and revolves around both the latest and deepest trends and the most barebones simple approaches. I have conducted research, trained and deployed models into real products used by real users.
+**My background ranges from tiny to huge organizations**, includes both individual contribution and management, and revolves around both the latest and deepest trends and the most barebones simple approaches. I have conducted research, trained and deployed models into real products used by real users.
 
 **I also consider myself a capable data engineer** with a strong grasp of both Python and the usual collection of auxiliary tools/frameworks our craft requires. This includes everything from managing annotation databases to querying them.
 
