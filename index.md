@@ -7,9 +7,9 @@ subtitle: This is my domain
 
 I'm Nir Ben-Zvi. I am a *freelance deep learning researcher* from Tel-Aviv, Israel.
 
-I love tackling deep learning problems, particularly ones involving images. Before doing freelance work, I've been building various ML-based products both as an individual contributor and as a research manager.
+I love tackling deep learning problems, particularly ones involving images. Before doing freelance work, I've been building various ML-based products both as an individual contributor and as a research manager. I hold an MSc in CS from the Hebrew University.
 
 For a more in-depth technical background, see [here]({{ site.baseurl }}/professional).
 
 
-I also like whisky.
+<!-- I also like whisky. -->
