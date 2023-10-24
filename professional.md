@@ -22,9 +22,9 @@ I am *damn good* at solving deep learning business problems and I've been doing 
 **I also consider myself a capable data engineer** with a strong grasp of both Python and the usual collection of auxiliary tools/frameworks our craft requires. This includes everything from managing annotation databases to querying them.
 
 ## Experience
-Before embarking in my freelance career I was a computer vision research manager at [trigo](https://www.trigoretail.com). Before that I was a research scientist at [Amazon](https://www.amazon.com). I was also extremely luck to work on my MSc thesis at [Disney Research](https://www.disneyresearch.com) as an imagineering intern.
+Before embarking on my freelance career I was a *computer vision research manager* at [trigo](https://www.trigoretail.com). Before *trigo* I was a *machine learning research scientist* at [Amazon](https://www.amazon.com)'s *Lab126*. I was also extremely luck to work on my MSc thesis at [Disney Research](https://www.disneyresearch.com) as an *Imagineering intern*.
 
-I hold an MSc and a BSc in Computer Science from the **Hebrew University of Jerusalem, Israel**, and a minor in Visual Communications from **Bezalel Academy for Art and Design**.
+I hold an M.Sc and a B.Sc in Computer Science from the **Hebrew University of Jerusalem, Israel**, and a minor in Visual Communications from **Bezalel Academy for Art and Design**.
 
 As a freelancer I was lucky enough to work with 
 <a href="https://www.deci.ai/">Deci</a>, 
