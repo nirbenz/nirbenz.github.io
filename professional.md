@@ -35,7 +35,7 @@ As a consultant I was lucky enough to work with
 <a href="https://www.mixtiles.com/">Mixtiles</a>, 
 and some others.
 
-See my [LinkedIn profile](https://www.linkedin.com/in/nir-ben-zvi/){:target="_blank"} for a more detailed background and recent list of clients.
+See my [LinkedIn profile](https://www.linkedin.com/in/nir-ben-zvi/){:target="_blank"} for a more detailed background and [recent list of clients](https://www.linkedin.com/in/nir-ben-zvi/details/experience/).
 
 ## Working Together
 
