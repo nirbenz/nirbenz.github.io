@@ -23,7 +23,7 @@ While these areas are my primary expertise, I've also been increasingly involved
 **I also consider myself a capable data engineer** with a strong grasp of both Python and the usual collection of auxiliary tools/frameworks our craft requires. This includes everything from managing annotation databases to querying them.
 
 ## Experience
-Before embarking on my consulting career I was a computer vision research manager at [trigo](https://www.trigoretail.com). Before *Trigo* I was a machine learning research scientist at [Amazon](https://www.amazon.com)'s *Lab126*. I was also extremely lucky to work on my MSc thesis at [Disney Research](https://www.disneyresearch.com) as an Imagineering intern, under the supervision of [Prof. Arik Shamir](https://faculty.runi.ac.il/arik/site/index.asp).
+Before embarking on my consulting career I was a computer vision research manager at [Trigo](https://www.trigoretail.com). Before *Trigo* I was a machine learning research scientist at [Amazon](https://www.amazon.com)'s *Lab126*. I was also extremely lucky to work on my MSc thesis at [Disney Research](https://www.disneyresearch.com) as an Imagineering intern, under the supervision of [Prof. Arik Shamir](https://faculty.runi.ac.il/arik/site/index.asp).
 
 
 I hold an M.Sc and a B.Sc in Computer Science from the **Hebrew University of Jerusalem, Israel**, and a minor in Visual Communications from **Bezalel Academy for Art and Design**.
