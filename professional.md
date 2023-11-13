@@ -29,11 +29,12 @@ Before embarking on my consulting career I was a computer vision research manage
 I hold an M.Sc and a B.Sc in Computer Science from the **Hebrew University of Jerusalem, Israel**, and a minor in Visual Communications from **Bezalel Academy for Art and Design**.
 
 As a consultant I was lucky enough to work with 
-<a href="https://www.deci.ai/">Deci</a>, 
-<a href="https://www.lemonade.com/">Lemonade</a>, 
-<a href="https://www.hellosimply.com/">Simply (formerly Joytunes)</a>, 
-<a href="https://www.mixtiles.com/">Mixtiles</a>, 
-and some others.
+[Deci](https://www.deci.ai/),
+[Lemonade](https://www.lemonade.com/),
+[CommonGround](https://www.commonground-ai.com/),
+[Simply (formerly Joytunes)](https://www.hellosimply.com/), 
+[Mixtiles](https://www.mixtiles.com/),
+and more.
 
 See my [LinkedIn profile](https://www.linkedin.com/in/nir-ben-zvi/){:target="_blank"} for a more detailed background and [recent list of clients](https://www.linkedin.com/in/nir-ben-zvi/details/experience/).
 
