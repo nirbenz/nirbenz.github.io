@@ -34,6 +34,9 @@ As a consultant I was lucky enough to work with
 [CommonGround](https://www.commonground-ai.com/),
 [Simply (formerly Joytunes)](https://www.hellosimply.com/), 
 [Mixtiles](https://www.mixtiles.com/),
+[DeepChecks](https://www.deepchecks.com/),
+[Nielsen](https://nielsensports.com/),
+[LuxuryEscapes](https://luxuryescapes.com/),
 and more.
 
 See my [LinkedIn profile](https://www.linkedin.com/in/nir-ben-zvi/){:target="_blank"} for a more detailed background and [recent list of clients](https://www.linkedin.com/in/nir-ben-zvi/details/experience/).
