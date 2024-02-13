@@ -29,3 +29,36 @@ layout: base
     </div>
   </div>
 </div>
+
+<script>
+function adjustFontSize() {
+  // Ensure the script runs only for viewports at least 768px wide
+  if (window.innerWidth >= 768) {
+    const headings = document.querySelectorAll('.intro-header .page-heading h1, .intro-header .post-heading h1');
+
+    headings.forEach(function(heading) {
+      const style = window.getComputedStyle(heading);
+      const fontSize = parseFloat(style.fontSize);
+      const lineHeight = parseFloat(style.lineHeight) || fontSize * 1.2; // Default line-height assumption
+      const height = heading.offsetHeight;
+      const lines = Math.ceil(height / lineHeight);
+
+      if (lines > 3) { // Adjust according to your preference
+        heading.style.fontSize = `${fontSize * 0.7}px`; // Adjust font size to 70% of its current size
+      }
+    });
+  }
+}
+document.addEventListener('DOMContentLoaded', adjustFontSize);
+window.addEventListener('resize', adjustFontSize);
+
+// document.addEventListener('DOMContentLoaded', function() {
+//   const headings = document.querySelectorAll('.intro-header .page-heading h1, .intro-header .post-heading h1');
+
+//   headings.forEach(function(heading) {
+//     if (heading.textContent.length > 20) { // Adjust length threshold as needed
+//       heading.style.fontSize = '40px'; // Adjust font size as needed
+//     }
+//   });
+// });
+</script>
