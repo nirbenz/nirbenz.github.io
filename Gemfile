@@ -10,5 +10,6 @@ end
 # manually added
 gem "webrick", "~> 1.8"
 gem "faraday-retry"
+gem 'jekyll-redirect-from'
 
 

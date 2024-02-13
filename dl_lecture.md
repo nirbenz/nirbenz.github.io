@@ -11,11 +11,10 @@ subtitle: An Introduction
 
 This problem is everywhere in those organizations - from daily standups to company-wide meetings - and even extremely experienced developers sometimes lack basic understanding of what their colleagues are talking about. Needless to say, this problem sometimes deepens outside the engineering and research groups of larger companies. 
 
+Watching this knowledge gap over the years, I have composed a 1 hour lecture that successfully demonstrates what deep learning is.
+This lecture is relevant to both people with vast technical and mathematical knowledge (but no machine or deep learning backgrounds) and to non-R&D employees who want to know what is being talked about around them. This talk intentionally lacks formulas, uses mostly visual aids and can be dynamically adapted to its audience technical level.
+For ease of presenting things visually, the examples in this talk are based on computer vision and parallel examples from current trends in text-understanding and natural language processing are presented on-the-fly if the audience requests it.
 
-Watching this knowledge gap over the years, I have composed a 1 hour lecture that successfully demonstrates **what deep learning is.**
-
-
-This lecture is relevant to both **people with vast technical** and mathematical knowledge (but no machine or deep learning backgrounds) and to **non-R&D employees** who want to know what is being talked about around them. The lecture intentionally lacks formulas, uses mostly visual aids and can be dynamically adapted to its audience. Due to my own background, the examples are built around computer vision but discussion revolving around other deep learning domains can be conducted freely.
 
 ## Who is The Target Audience?
 

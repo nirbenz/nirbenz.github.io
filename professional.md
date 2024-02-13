@@ -9,7 +9,7 @@ cover-img: assets/img/tamar_img_exp.jpg
 
 ## In a Nutshell
 
-I am highly skilled at solving deep learning business problems and I've been doing that for some of Israel's top startups (see [Experience]({{ site.baseurl }}/professional/#experience)).
+I am highly skilled at solving deep learning business problems and I've been doing that for some of Israel's top startups (see [Experience]({{ site.baseurl}}/professional/#experience)).
 While these areas are my primary expertise, I've also been increasingly involved in Natural Language Processing (NLP), particularly using LLMs, allowing me to tackle a broader range of challenges.
 
 **I am a full-stack researcher**, meaning I do everything from research to data management to training and finally deployment. I am a highly experienced technological leader and researcher, with rich theoretical and practical knowledge of machine learning techniques and their usage production environments.
@@ -23,23 +23,23 @@ While these areas are my primary expertise, I've also been increasingly involved
 **I also consider myself a capable data engineer** with a strong grasp of both Python and the usual collection of auxiliary tools/frameworks our craft requires. This includes everything from managing annotation databases to querying them.
 
 ## Experience
-Before embarking on my consulting career I was a computer vision research manager at [Trigo](https://www.trigoretail.com). Before *Trigo* I was a machine learning research scientist at [Amazon](https://www.amazon.com)'s *Lab126*. I was also extremely lucky to work on my MSc thesis at [Disney Research](https://www.disneyresearch.com) as an Imagineering intern, under the supervision of [Prof. Arik Shamir](https://faculty.runi.ac.il/arik/site/index.asp).
+Before embarking on my consulting career I was a computer vision research manager at [Trigo](https://www.trigoretail.com){:target="_blank"}. Before *Trigo* I was a machine learning research scientist at [Amazon](https://www.amazon.com){:target="_blank"}'s *Lab126*. I was also extremely lucky to work on my MSc thesis at [Disney Research](https://www.disneyresearch.com){:target="_blank"} as an Imagineering intern, under the supervision of [Prof. Arik Shamir](https://faculty.runi.ac.il/arik/site/index.asp){:target="_blank"}.
 
 
 I hold an M.Sc and a B.Sc in Computer Science from the **Hebrew University of Jerusalem, Israel**, and a minor in Visual Communications from **Bezalel Academy for Art and Design**.
 
 As a consultant I was lucky enough to work with 
-[Deci](https://www.deci.ai/),
-[Lemonade](https://www.lemonade.com/),
-[CommonGround](https://www.commonground-ai.com/),
-[Simply (formerly Joytunes)](https://www.hellosimply.com/), 
-[Mixtiles](https://www.mixtiles.com/),
-[DeepChecks](https://www.deepchecks.com/),
-[Nielsen](https://nielsensports.com/),
-[LuxuryEscapes](https://luxuryescapes.com/),
+[Deci](https://www.deci.ai/){:target="_blank"},
+[Lemonade](https://www.lemonade.com/){:target="_blank"},
+[CommonGround](https://www.commonground-ai.com/){:target="_blank"},
+[Simply (formerly Joytunes)](https://www.hellosimply.com/){:target="_blank"}, 
+[Mixtiles](https://www.mixtiles.com/){:target="_blank"},
+[DeepChecks](https://www.deepchecks.com/){:target="_blank"},
+[Nielsen](https://nielsensports.com/){:target="_blank"},
+[LuxuryEscapes](https://luxuryescapes.com/){:target="_blank"},
 and more.
 
-See my [LinkedIn profile](https://www.linkedin.com/in/nir-ben-zvi/){:target="_blank"} for a more detailed background and [recent list of clients](https://www.linkedin.com/in/nir-ben-zvi/details/experience/).
+See my [LinkedIn profile](https://www.linkedin.com/in/nir-ben-zvi/){:target="_blank"} for a more detailed background and [recent list of clients](https://www.linkedin.com/in/nir-ben-zvi/details/experience/){:target="_blank"}.
 
 ## Working Together
 
