@@ -16,7 +16,9 @@ While these areas are my primary expertise, I've also been increasingly involved
 
 **I love computer vision**. Yep, I literally love what I do, which means I'm always up to date. I've been handling images in various tasks for more than 10 years. I've worked on cutting edge deep models and classical image processing techniques - whichever was the best tool for the job. I also have far reaching background in computer graphics (that's actually where I started).
 
-**But I also love everything ML** and I've got ranging levels of experience with recommender systems and natural language processing too.
+<!-- **But I also love everything ML** and I've got ranging levels of experience with recommender systems and natural language processing too. -->
+
+**But I also love everything ML** and I have deep understanding of other domains, particularly recommender systems and NLP. Over the past 18 months a large portion of my work revolved around LLMs - from building end-to-end RAG-based products to fine-tuning OSS models.
 
 **My background ranges from tiny to huge organizations**, includes both individual contribution and management, and revolves around both the latest and deepest trends and the most barebones simple approaches. I have conducted research, trained and deployed models into real products used by real users.
 

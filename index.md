@@ -7,7 +7,7 @@ subtitle: This is my domain
 
 Welcome. I'm Nir Ben-Zvi, a *deep learning consultant* from Tel-Aviv, Israel, with a decade-long track record in research and management.
 
-My passion lies in deep learning challenges, especially those involving images. Before consulting, I built ML-based products both as an individual contributor and as a research manager. I am a full-stack researcher with an M.Sc in Computer Science from the Hebrew University, and I love writing code.
+My passion lies in deep learning challenges, especially those involving images and text . Before consulting, I built ML-based products both as an individual contributor and as a research manager. I am a full-stack researcher with an M.Sc in Computer Science from the Hebrew University, and I love writing code.
 
 I've partnered with some of the top companies of my field, including 
 [Deci](https://www.deci.ai/), 
