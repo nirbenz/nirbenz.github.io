@@ -9,16 +9,13 @@ cover-img: assets/img/tamar_img_exp.jpg
 
 ## In a Nutshell
 
-I am highly skilled at solving deep learning business problems and I've been doing that for some of Israel's top startups (see [Experience]({{ site.baseurl}}/professional/#experience)).
-While these areas are my primary expertise, I've also been increasingly involved in Natural Language Processing (NLP), particularly using LLMs, allowing me to tackle a broader range of challenges.
+I am highly skilled at solving deep learning business problems and I've been doing that for some of Israel's top startups (see [Experience]({{ site.baseurl}}/professional/#experience)). My main areas of expertise are computer vision and natural language processing.
 
-**I am a full-stack researcher**, meaning I do everything from research to data management to training and finally deployment. I am a highly experienced technological leader and researcher, with rich theoretical and practical knowledge of machine learning techniques and their usage production environments.
+**I love computer vision.** Yep, I literally love what I do, which means I'm always up to date. I've been studying images for various tasks for more than 10 years. I've worked on cutting edge deep models and classical image processing techniques - whichever was the best tool for the job. I also have far reaching background in computer graphics (that's actually where I started).
 
-**I love computer vision**. Yep, I literally love what I do, which means I'm always up to date. I've been handling images in various tasks for more than 10 years. I've worked on cutting edge deep models and classical image processing techniques - whichever was the best tool for the job. I also have far reaching background in computer graphics (that's actually where I started).
+**But I specialize in both computer vision and natural language processing.** While computer vision has been my focus for over a decade, I've developed deep expertise in NLP, particularly with the rise of LLMs. In recent years, a significant portion of my work has involved incorporating these models into production environments. I've tackled challenges ranging from building large-scale knowledge graphs to developing RAGs and implementing agent-based workflows. This dual specialization allows me to bring unique insights to projects that bridge visual and textual domains.
 
-<!-- **But I also love everything ML** and I've got ranging levels of experience with recommender systems and natural language processing too. -->
-
-**But I also love everything ML** and I have deep understanding of other domains, particularly recommender systems and NLP. Over the past 18 months a large portion of my work revolved around LLMs - from building end-to-end RAG-based products to fine-tuning OSS models.
+**I am a full-stack researcher**, meaning I do everything from research to data management to training and finally deployment. I am a highly experienced technological leader and researcher, with rich theoretical and practical knowledge of machine learning techniques and their usage in production environments.
 
 **My background ranges from tiny to huge organizations**, includes both individual contribution and management, and revolves around both the latest and deepest trends and the most barebones simple approaches. I have conducted research, trained and deployed models into real products used by real users.
 
