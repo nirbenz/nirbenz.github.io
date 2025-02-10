@@ -7,13 +7,12 @@ title: Full CV
 
 <table style="width: 100%; text-align: left; border-collapse: collapse; border: none;">
   <tr>
-    <td style="border: none;"><a href="mailto:me@nirbenzvi.com">me@nirbenzvi.com</a></td>
-    <td style="border: none;"><a href="https://www.nirbenzvi.com">www.nirbenzvi.com</a></td>
-    <td style="border: none;"><a href="http://linkedin.com/in/nir-ben-zvi">linkedin.com/in/nir-ben-zvi</a></td>
-    <td style="border: none;"><a href="tel:0545-864-729">0545-864-729</a></td>
+    <td style="border: none;"><a href="mailto:me@nirbenzvi.com">Email</a></td>
+    <td style="border: none;"><a href="https://www.nirbenzvi.com">Website</a></td>
+    <td style="border: none;"><a href="http://linkedin.com/in/nir-ben-zvi">LinkedIn</a></td>
+    <td style="border: none;"><a href="tel:0545-864-729">Phone</a></td>
   </tr>
 </table>
-
 
 # Professional Experience
 
