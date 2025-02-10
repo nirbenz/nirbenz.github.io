@@ -5,8 +5,15 @@ title: Full CV
 
 # Nir Ben Zvi
 
-| [me@nirbenzvi.com](mailto:me@nirbenzvi.com) | [www.nirbenzvi.com](https://www.nirbenzvi.com) | [linkedin.com/in/nir-ben-zvi](http://linkedin.com/in/nir-ben-zvi) | [0545-864-729](tel:0545-864-729) |
-| :---: | :---: | :---: | :---: |
+<table style="width: 100%; text-align: left; border: none;">
+  <tr>
+    <td><a href="mailto:me@nirbenzvi.com">me@nirbenzvi.com</a></td>
+    <td><a href="https://www.nirbenzvi.com">www.nirbenzvi.com</a></td>
+    <td><a href="http://linkedin.com/in/nir-ben-zvi">linkedin.com/in/nir-ben-zvi</a></td>
+    <td><a href="tel:0545-864-729">0545-864-729</a></td>
+  </tr>
+</table>
+
 
 # Professional Experience
 
