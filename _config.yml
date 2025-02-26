@@ -27,6 +27,7 @@ collections:
 repository: nirbenz/nirbenz.github.io
 github: [metadata]
 safe: false
+medium_feed: nzvi
 
 ###############################################
 # --- List of links in the navigation bar --- #
