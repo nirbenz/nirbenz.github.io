@@ -55,15 +55,13 @@
 
 ## Publications
 
-1. [**Toward Better Reconstruction of Style Images with GANs**](https://assets.amazon.science/09/e3/53830ba14c14a1a413d3a6660fea/toward-better-reconstruction-of-style-images-with-gans.pdf)
+Alexander Lorbert, Nir Ben-Zvi, Arridhana Ciptadi, Eduard Oks, Ambrish Tyagi<br>
+**Toward Better Reconstruction of Style Images with GANs**<br>
+[KDD2017 Workshop on Fashion AI](https://assets.amazon.science/09/e3/53830ba14c14a1a413d3a6660fea/toward-better-reconstruction-of-style-images-with-gans.pdf)
 
-Alexander Lorbert, Nir Ben-Zvi, Arridhana Ciptadi, Eduard Oks, Ambrish Tyagi  
-KDD2017 Workshop on Fashion AI
-
-2. [**Line-Drawing Video Stylization**](https://la.disneyresearch.com/publication/line-drawing-video-stylization/)
-
-Nir Ben-Zvi,  Jose Bento Ayres Pereira, Moshe Mahler, Jessica Hodgins, Arik Shamir  
-Eurographics 2016
+Nir Ben-Zvi, Jose Bento Ayres Pereira, Moshe Mahler, Jessica Hodgins, Arik Shamir<br>
+**Line-Drawing Video Stylization**<br>
+[Eurographics 2016](https://la.disneyresearch.com/publication/line-drawing-video-stylization/)
 
 ## Other
 
