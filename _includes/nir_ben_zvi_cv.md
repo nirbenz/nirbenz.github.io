@@ -11,7 +11,7 @@
 
 ## Professional Experience
 
-**Deep Learning Freelancer** (2021-present)
+**Machine Learning Freelancer/Consultant** (2021-present)
 
 * Freelance **computer vision and NLP applied researcher** working on the cutting edge.  
 * Owning the full machine learning development lifecycle—problem definition, data pipeline design, model development, evaluation, and production deployment.  
@@ -19,7 +19,7 @@
 * Acting as a **technical leader and hands-on contributor**, driving ML strategy and execution across diverse organizations.  
 * Building research-driven solutions beyond off-the-shelf models, with measurable business impact.  
 * **Partial list of clients**:  
-  [Mixtiles](https://mixtiles.com/), [Simply](https://hellosimply.com/), [Deci.AI](https://www.deci.ai), [Lemonade](https://www.lemonade.com/), DeepChecks, CommonGround, Papaya-Global and KLA-Tencor.
+  Keep(Acq. by Elasticsearch), [Mixtiles](https://mixtiles.com/), [Simply](https://hellosimply.com/), [Deci.AI](https://www.deci.ai)(Acq. by NVIDIA), [Lemonade](https://www.lemonade.com/), CommonGround (Acq. by Apple), DeepChecks, Papaya-Global, Honeybook.
 
 **Computer Vision Research Manager, Trigo** (2018-2021)
 
