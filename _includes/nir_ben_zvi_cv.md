@@ -19,7 +19,7 @@
 * Acting as a **technical leader and hands-on contributor**, driving ML strategy and execution across diverse organizations.  
 * Building research-driven solutions beyond off-the-shelf models, with measurable business impact.  
 * **Partial list of clients**:  
-  Keep(Acq. by Elasticsearch), [Mixtiles](https://mixtiles.com/), [Simply](https://hellosimply.com/), [Deci.AI](https://www.deci.ai)(Acq. by NVIDIA), [Lemonade](https://www.lemonade.com/), CommonGround (Acq. by Apple), DeepChecks, Papaya-Global, Honeybook.
+  Keep (Acq. by Elasticsearch), [Mixtiles](https://mixtiles.com/), [Simply](https://hellosimply.com/), [Deci.AI](https://www.deci.ai) (Acq. by NVIDIA), [Lemonade](https://www.lemonade.com/), CommonGround (Acq. by Apple), DeepChecks, Papaya-Global, Honeybook.
 
 **Computer Vision Research Manager, Trigo** (2018-2021)
 
