@@ -19,7 +19,7 @@
 * Acting as a **technical leader and hands-on contributor**, driving ML strategy and execution across diverse organizations.  
 * Building research-driven solutions beyond off-the-shelf models, with measurable business impact.  
 * **Partial list of clients**:  
-  Keep (Acq. by Elasticsearch), [Mixtiles](https://mixtiles.com/), [Simply](https://hellosimply.com/), [Deci.AI](https://www.deci.ai) (Acq. by NVIDIA), [Lemonade](https://www.lemonade.com/), CommonGround (Acq. by Apple), DeepChecks, Papaya-Global, Honeybook.
+  [Keep](https://www.keephq.dev/) (Acq. by Elasticsearch), [Mixtiles](https://mixtiles.com/), [Simply](https://hellosimply.com/), [Deci.AI](https://www.deci.ai) (Acq. by NVIDIA), [Lemonade](https://www.lemonade.com/), [CommonGround](https://www.apple.com) (Acq. by Apple), DeepChecks, Papaya-Global, Honeybook.
 
 **Computer Vision Research Manager, Trigo** (2018-2021)
 
@@ -68,7 +68,7 @@ Nir Ben-Zvi, Jose Bento Ayres Pereira, Moshe Mahler, Jessica Hodgins, Arik Shami
 ### Teaching
 
 * **TA in 'Object Oriented Programming', The Hebrew University of Jerusalem** (2014)  
-* **Deep Learning CS231 Community Course, Google Campus** (2017-2020)
+* **[MDLI](https://machinelearning.co.il/) Deep Learning CS231 Community Course, Google Campus** (2017-2020)
 
 ### Military Service
 
@@ -80,8 +80,8 @@ Nir Ben-Zvi, Jose Bento Ayres Pereira, Moshe Mahler, Jessica Hodgins, Arik Shami
 ### Code/Tools
 
 * **10+ years of experience** writing Python research and production code on top of POSIX systems.  
-* Data processing; **postgresql** (inc. **pgvector**), **bigquery**, **snowflake** as well as current vector-dbs.  
-* Thorough knowledge of **deep learning hardware**, compute pipelines, and model throughput optimization (**ONNX, TRT, etc.**).  
+* Data processing; **postgresql** (inc. **pgvector**), **bigquery**, **snowflake** as well as current vector-dbs (currently in love with **Qdrant**).  
+* Thorough knowledge of **deep learning hardware**, compute pipelines and model throughput optimization (**ONNX, TRT, etc.**).  
 * Full proficiency with common 3D, video and image editing tools (Blender, Photoshop, Lightroom, Illustrator).
 
 ### Inter/Personal
