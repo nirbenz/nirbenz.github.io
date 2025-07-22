@@ -72,10 +72,10 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
+  calendly: nirbenzvi/30-minute
   email: "me@nirbenzvi.com"
   linkedin: nir-ben-zvi
   twitter: nir_benz
-  # calendly: nirbenzvi/30-minute
   github: nirbenz  
   # bluesky: nirbenz.bsky.social
   # medium: nzvi
