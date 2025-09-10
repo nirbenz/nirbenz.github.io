@@ -45,6 +45,7 @@ navbar-links:
   Teaching:
     - CS231n: "cs231n"
     - Lectures: "lectures"
+  CV: "cv"
 
 paginate_path: "/content/page:num/"
 
