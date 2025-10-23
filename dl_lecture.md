@@ -17,8 +17,6 @@ This lecture is relevant to both people with vast technical and mathematical kno
 My talk intentionally lacks formulas, uses mostly visual aids and can be dynamically adapted to its audience technical level.
 For ease of presenting things visually, the examples in this talk are based on computer vision and large-language-models, with emphasis adapted based on the audience's preference.
 
-> I like 1.5 as an optimum with time for questions and whiteboard illustrations; however 1 hour works beautifully as well.
-
 ## Who is The Target Audience?
 
 - Organizations where deep learning is prominent, but not understood enough by the people who don't actively practice it. This can be the senior management, the product team or the rest of the R&D (or all of them combined). 
@@ -35,3 +33,5 @@ For ease of presenting things visually, the examples in this talk are based on c
 - A (tiny!) bit on deep learning hardware (a personal passion of mine).
 - **Some real world examples**
 - **Open discussion**
+
+<sub><sub>\**I like 1.5 as an optimum with time for questions and whiteboard illustrations; however 1 hour works beautifully as well.*</sub></sub>
