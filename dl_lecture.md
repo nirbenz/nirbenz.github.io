@@ -34,4 +34,4 @@ For ease of presenting things visually, the examples in this talk are based on c
 - **Some real world examples**
 - **Open discussion**
 
-<sub><sub>\**I like 1.5 as an optimum with time for questions and whiteboard illustrations; however 1 hour works beautifully as well.*</sub></sub>
+<sub>\**I like 1.5 as an optimum with time for questions and whiteboard illustrations; however 1 hour works beautifully as well.*</sub>
