@@ -11,12 +11,13 @@ subtitle: An Introduction
 
 This problem is everywhere in those organizations - from daily standups to company-wide meetings - and even extremely experienced developers sometimes lack basic understanding of what their colleagues are talking about. Needless to say, this problem sometimes deepens outside the engineering and research groups of larger companies. 
 
-Watching this knowledge gap over the years, I have composed a 1 hour lecture that successfully demonstrates what deep learning is.
+Watching this knowledge gap over the years, I have composed a 1.5* hour lecture that successfully demonstrates what deep learning is.
 This lecture is relevant to both people with vast technical and mathematical knowledge (but no machine or deep learning backgrounds) and to non-R&D employees who want to know what is being talked about around them.
 
 My talk intentionally lacks formulas, uses mostly visual aids and can be dynamically adapted to its audience technical level.
-For ease of presenting things visually, the examples in this talk are based on computer vision and parallel examples from current trends in text-understanding and natural language processing are presented on-the-fly if the audience requests it.
+For ease of presenting things visually, the examples in this talk are based on computer vision and large-language-models, with emphasis adapted based on the audience's preference.
 
+> I like 1.5 as an optimum with time for questions and whiteboard illustrations; however 1 hour works beautifully as well.
 
 ## Who is The Target Audience?
 
@@ -24,13 +25,13 @@ For ease of presenting things visually, the examples in this talk are based on c
 - The lecture works for groups of all sizes; this can be an intimate, 2-4 people room or company wide.
 - Data science teams that want to look into deep learning in the future, specifically for working on images.
 - Founders and tech leaders who want to understand the world of deep learning better from technical and product point of views.
-- Entrepreneurs who want to better understand how deep learning can shape their future companies.
 
 ## Syllabus
 - **What is classical/shallow (e.g. non-deep) machine learning?**
-- How does machine learning **work on images?**
+- How does machine learning **work on images and text?**
 - What is deep learning? What makes them **"deep"**?
 - What caused the recent (2014 and on) deep learning boom?
+- What is *the transformer/attention* and how does it work for text and images?
 - A (tiny!) bit on deep learning hardware (a personal passion of mine).
 - **Some real world examples**
 - **Open discussion**
