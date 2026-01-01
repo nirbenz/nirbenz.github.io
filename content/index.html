@@ -1,7 +1,8 @@
 ---
 layout: home
 title: My Content
-subtitle: Occasionally I write, blog or interview about things I find interesting.
+subtitle: I sometimes write and talk about the things I find interesting.
+cover-img: assets/img/content.jpg
 ---
 
 <ul class="media-list list-unstyled" role="list">
@@ -10,16 +11,16 @@ subtitle: Occasionally I write, blog or interview about things I find interestin
     <article>
 
       {%- capture thumbnail -%}
-        {% if post.thumbnail-img %}
-          {{ post.thumbnail-img }}
-        {% elsif post.cover-img %}
-          {% if post.cover-img.first %}
-            {{ post.cover-img[0].first.first }}
-          {% else %}
-            {{ post.cover-img }}
-          {% endif %}
-        {% else %}
-        {% endif %}
+      {% if post.thumbnail-img %}
+      {{ post.thumbnail-img }}
+      {% elsif post.cover-img %}
+      {% if post.cover-img.first %}
+      {{ post.cover-img[0].first.first }}
+      {% else %}
+      {{ post.cover-img }}
+      {% endif %}
+      {% else %}
+      {% endif %}
       {% endcapture %}
       {% assign thumbnail=thumbnail | strip %}
 
@@ -37,15 +38,19 @@ subtitle: Occasionally I write, blog or interview about things I find interestin
         <h2 class="post-title">{{ post.title | strip_html }}</h2>
 
         {% if post.subtitle %}
-          <h3 class="post-subtitle">
+        <h3 class="post-subtitle">
           {{ post.subtitle | strip_html }}
-          </h3>
+        </h3>
         {% endif %}
       </a>
 
       <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+        {% if post.where %}
+        Given at {{ post.where }} on {{ post.date | date: date_format }}
+        {% else %}
         Posted on {{ post.date | date: date_format }}
+        {% endif %}
       </p>
 
       {% if thumbnail != "" %}
@@ -70,7 +75,7 @@ subtitle: Occasionally I write, blog or interview about things I find interestin
         {{ post.excerpt | strip_html | truncatewords: excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > excerpt_length %}
-          <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
+        <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
         {% endif %}
       </div>
       {% endunless %}
