@@ -13,20 +13,20 @@
 
 **Machine Learning Freelancer/Consultant** (2021-present)
 
-* Freelance **computer vision and NLP applied researcher** working on the cutting edge.  
+* Freelance **machine learning architect/applied researcher** working on the cutting edge of **images, video and text**.  
 * Owning the full machine learning development lifecycle—problem definition, data pipeline design, model development, evaluation, and production deployment.  
 * Writing production-grade code for **generative image models** and **large language models**, as well as **object detection**, **semantic segmentation**, **knowledge graph traversal**, **agentic flows**, and more.  
 * Acting as a **technical leader and hands-on contributor**, driving ML strategy and execution across diverse organizations.  
 * Building research-driven solutions beyond off-the-shelf models, with measurable business impact.  
 * **Partial list of clients**:  
-  [Keep](https://www.keephq.dev/) (Acq. by Elasticsearch), [Mixtiles](https://mixtiles.com/), [Simply](https://hellosimply.com/), [Deci.AI](https://www.deci.ai) (Acq. by NVIDIA), [Lemonade](https://www.lemonade.com/), [CommonGround](https://www.apple.com) (Acq. by Apple), DeepChecks, Papaya-Global, Honeybook.
+[Keep](https://www.keephq.dev/) (Acq. by Elasticsearch), [Mixtiles](https://mixtiles.com/), [Simply](https://hellosimply.com/), [Deci.AI](https://www.deci.ai) (Acq. by NVIDIA), [Lemonade](https://www.lemonade.com/), [CommonGround](https://www.apple.com) (Acq. by Apple), [DeepChecks](https://www.deepchecks.com), [Oddity](https://oddity.com) (*$ODD*), [Papaya-Global](https://www.papayaglobal.com), [Honeybook](https://www.honeybook.com), [Clover](https://www.clover.security), and many more.
 
 **Computer Vision Research Manager, Trigo** (2018-2021)
 
 * Part of the **founding team** and the **first computer vision hire**.  
 * Built Trigo’s first deep learning models from scratch, **running in real-time in live supermarkets**.  
 * Led development of **object detection and real-time tracking models** optimized for deployment.  
-* Scaled machine learning R\&D from garage phase (\<10 employees) to 100+ employees, **hiring and growing** top-tier ML researchers and engineers.  
+* Scaled machine learning R&D from garage phase (\<10 employees) to 100+ employees, **hiring and growing** top-tier ML researchers and engineers.  
 * Built **annotation pipelines, ML infrastructure, and model evaluation tools** to support large-scale CV development.
 
 **Computer Vision Research Scientist, Amazon Lab126** (2015-2018)
@@ -49,17 +49,17 @@
 
 ## Education
 
-* **M.Sc, Computer Science, The Hebrew University of Jerusalem** (2013 – 2015\)  
-* **B.Sc, Computer Science, The Hebrew University of Jerusalem** (2010 – 2013\)  
+* **M.Sc, Computer Science, The Hebrew University of Jerusalem** (2013 – 2015)  
+* **B.Sc, Computer Science, The Hebrew University of Jerusalem** (2010 – 2013)  
 * **Minor in Visual Communications, Bezalel Academy of Art and Design** (2010-2014)
 
 ## Publications
 
-Alexander Lorbert, Nir Ben-Zvi, Arridhana Ciptadi, Eduard Oks, Ambrish Tyagi<br>
+Alexander Lorbert, **Nir Ben-Zvi**, Arridhana Ciptadi, Eduard Oks, Ambrish Tyagi<br>
 **Toward Better Reconstruction of Style Images with GANs**<br>
 [KDD2017 Workshop on Fashion AI](https://assets.amazon.science/09/e3/53830ba14c14a1a413d3a6660fea/toward-better-reconstruction-of-style-images-with-gans.pdf)
 
-Nir Ben-Zvi, Jose Bento Ayres Pereira, Moshe Mahler, Jessica Hodgins, Arik Shamir<br>
+**Nir Ben-Zvi**, Jose Bento Ayres Pereira, Moshe Mahler, Jessica Hodgins, Arik Shamir<br>
 **Line-Drawing Video Stylization**<br>
 [Eurographics 2016](https://la.disneyresearch.com/publication/line-drawing-video-stylization/)
 
@@ -67,7 +67,7 @@ Nir Ben-Zvi, Jose Bento Ayres Pereira, Moshe Mahler, Jessica Hodgins, Arik Shami
 
 ### Teaching
 
-* **TA in 'Object Oriented Programming', The Hebrew University of Jerusalem** (2014)  
+* ***Intro to Object Oriented Programming*, The Hebrew University of Jerusalem** (2014)  
 * **[MDLI](https://machinelearning.co.il/) Deep Learning CS231 Community Course, Google Campus** (2017-2020)
 
 ### Military Service
@@ -83,9 +83,10 @@ Nir Ben-Zvi, Jose Bento Ayres Pereira, Moshe Mahler, Jessica Hodgins, Arik Shami
 * Data processing; **postgresql** (inc. **pgvector**), **bigquery**, **snowflake** as well as current vector-dbs (currently in love with **Qdrant**).  
 * Thorough knowledge of **deep learning hardware**, compute pipelines and model throughput optimization (**ONNX, TRT, etc.**).  
 * Full proficiency with common 3D, video and image editing tools (Blender, Photoshop, Lightroom, Illustrator).
+* Hardware geek; spec’d (and built!) enterprise-grade GPU rackmounts for ML training/inference.
 
 ### Inter/Personal
 
-* Full fluency within an English working environment; Native Hebrew speaker.  
+* Full English fluency; Native Hebrew speaker.  
 * Ex-professional Photographer.  
 * A generally nice guy.
