@@ -19,7 +19,7 @@
 * Acting as a **technical leader and hands-on contributor**, driving ML strategy and execution across diverse organizations.  
 * Building research-driven solutions beyond off-the-shelf models, with measurable business impact.  
 * **Partial list of clients**:  
-[Keep](https://www.keephq.dev/){:target="_blank"} (Acq. by Elasticsearch), [Mixtiles](https://mixtiles.com/){:target="_blank"}, [Simply](https://hellosimply.com/){:target="_blank"}, [Deci.AI](https://www.deci.ai){:target="_blank"} (Acq. by NVIDIA), [Lemonade](https://www.lemonade.com/){:target="_blank"}, [CommonGround](https://www.apple.com){:target="_blank"} (Acq. by Apple), [DeepChecks](https://www.deepchecks.com){:target="_blank"}, [Oddity](https://oddity.com){:target="_blank"} (*\$ODD*), [Papaya-Global](https://www.papayaglobal.com){:target="_blank"}, [Honeybook](https://www.honeybook.com){:target="_blank"}, [Clover](https://www.clover.security){:target="_blank"}, and many more.
+[Keep](https://www.keephq.dev/){:target="_blank"} (Acq. by Elasticsearch), [Mixtiles](https://mixtiles.com/){:target="_blank"}, [Simply](https://hellosimply.com/){:target="_blank"}, [Deci.AI](https://www.deci.ai){:target="_blank"} (Acq. by NVIDIA), [Lemonade](https://www.lemonade.com/){:target="_blank"} (*\$LMND), [CommonGround](https://www.apple.com){:target="_blank"} (Acq. by Apple), [DeepChecks](https://www.deepchecks.com){:target="_blank"}, [Oddity](https://oddity.com){:target="_blank"} (*\$ODD*), [Papaya-Global](https://www.papayaglobal.com){:target="_blank"}, [Honeybook](https://www.honeybook.com){:target="_blank"}, [Clover](https://www.clover.security){:target="_blank"}, and many more.
 
 **Computer Vision Research Manager, Trigo** (2018-2021)
 
