@@ -14,7 +14,7 @@
 **Machine Learning Freelancer/Consultant** (2021-present)
 
 * Freelance **machine learning architect/applied researcher** working on the cutting edge of **images, video and text**.  
-* Owning the full machine learning development lifecycle—problem definition, data pipeline design, model development, evaluation, and production deployment.  
+* Owning the full machine learning development lifecycle-problem definition, data pipeline design, model development, evaluation, and production deployment.  
 * Writing production-grade code for **generative image models** and **large language models**, as well as **object detection**, **semantic segmentation**, **knowledge graph traversal**, **agentic flows**, and more.  
 * Acting as a **technical leader and hands-on contributor**, driving ML strategy and execution across diverse organizations.  
 * Building research-driven solutions beyond off-the-shelf models, with measurable business impact.  
@@ -24,18 +24,18 @@
 **Computer Vision Research Manager, Trigo** (2018-2021)
 
 * Part of the **founding team** and the **first computer vision hire**.  
-* Built Trigo’s first deep learning models from scratch, **running in real-time in live supermarkets**.  
+* Built Trigo's first deep learning models from scratch, **running in real-time in live supermarkets**.  
 * Led development of **object detection and real-time tracking models** optimized for deployment.  
 * Scaled machine learning R&D from garage phase (\<10 employees) to 100+ employees, **hiring and growing** top-tier ML researchers and engineers.  
 * Built **annotation pipelines, ML infrastructure, and model evaluation tools** to support large-scale CV development.
 
 **Computer Vision Research Scientist, Amazon Lab126** (2015-2018)
 
-* Researched, trained and deployed **computer vision models for Amazon’s consumer devices**, including the Echo Look and the Echo Show.  
-* Led research efforts for the group’s **first deep-learning-based object detection models** used in production.  
+* Researched, trained and deployed **computer vision models for Amazon's consumer devices**, including the Echo Look and the Echo Show.  
+* Led research efforts for the group's **first deep-learning-based object detection models** used in production.  
 * Worked **end-to-end** on ML research, from whiteboard concepts to **production-grade implementations** in Amazon products.  
 * **Key deep learning research and infrastructure evaluator** within the team, staying ahead of cutting-edge developments.  
-* Participated and contributed to Amazon’s (discontinued) MXNet deep learning framework.
+* Participated and contributed to Amazon's (discontinued) MXNet deep learning framework.
 
 **Computer Vision Algorithm Engineer, Donde Search (Acquired by Shopify)** (2015)
 
@@ -49,8 +49,8 @@
 
 ## Education
 
-* **M.Sc, Computer Science, The Hebrew University of Jerusalem** (2013 – 2015)  
-* **B.Sc, Computer Science, The Hebrew University of Jerusalem** (2010 – 2013)  
+* **M.Sc, Computer Science, The Hebrew University of Jerusalem** (2013 - 2015)  
+* **B.Sc, Computer Science, The Hebrew University of Jerusalem** (2010 - 2013)  
 * **Minor in Visual Communications, Bezalel Academy of Art and Design** (2010-2014)
 
 ## Publications
@@ -75,7 +75,7 @@ Alexander Lorbert, **Nir Ben-Zvi**, Arridhana Ciptadi, Eduard Oks, Ambrish Tyagi
 **Full military service in the elite unit of the IDF artillery corps, "Moran"** (2006-2009)
 
 * Squad-commanders course graduate.  
-* Reserves duty: In charge of the unit's assessments of new recruits (“gibush”).
+* Reserves duty: In charge of the unit's assessments of new recruits ("gibush").
 
 ### Code/Tools
 
@@ -83,7 +83,7 @@ Alexander Lorbert, **Nir Ben-Zvi**, Arridhana Ciptadi, Eduard Oks, Ambrish Tyagi
 * Data processing; **postgresql** (inc. **pgvector**), **bigquery**, **snowflake** as well as current vector-dbs (currently in love with **Qdrant**).  
 * Thorough knowledge of **deep learning hardware**, compute pipelines and model throughput optimization (**ONNX, TRT, etc.**).  
 * Full proficiency with common 3D, video and image editing tools (Blender, Photoshop, Lightroom, Illustrator).
-* Hardware geek; spec’d (and built!) enterprise-grade GPU rackmounts for ML training/inference.
+* Hardware geek; spec'd (and built!) enterprise-grade GPU rackmounts for ML training/inference.
 
 ### Inter/Personal
 

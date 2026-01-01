@@ -6,7 +6,7 @@ subtitle: An Introduction
 
 
 ## Abstract
-**Deep Learning** - and its derivative buzzwords - are discussed a lot at tech companies working on AI-oriented products. This often causes a serious knowledge gap between those who are doing "it" and those who don’t.
+**Deep Learning** - and its derivative buzzwords - are discussed a lot at tech companies working on AI-oriented products. This often causes a serious knowledge gap between those who are doing "it" and those who don't.
 
 
 This problem is everywhere in those organizations - from daily standups to company-wide meetings - and even extremely experienced developers sometimes lack basic understanding of what their colleagues are talking about. Needless to say, this problem sometimes deepens outside the engineering and research groups of larger companies. 

@@ -2,7 +2,7 @@
 layout: page
 title: Full CV
 cv_filename: nir_ben_zvi_cv
-share-title: Nir Ben Zvi — Full CV
+share-title: Nir Ben Zvi - Full CV
 share-description: My full curriculum vitae, covering my entire professional experience.
 
 ---
