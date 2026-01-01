@@ -28,14 +28,11 @@ Before embarking on my consulting career I was a computer vision research manage
 I hold an M.Sc and a B.Sc in Computer Science from the **Hebrew University of Jerusalem, Israel**, and a minor in Visual Communications from **Bezalel Academy for Art and Design**.
 
 As a consultant I was lucky enough to work with 
-[Deci](https://www.deci.ai/){:target="_blank"},
-[Lemonade](https://www.lemonade.com/){:target="_blank"},
-[CommonGround](https://www.commonground-ai.com/){:target="_blank"},
-[Simply (formerly Joytunes)](https://www.hellosimply.com/){:target="_blank"}, 
-[Mixtiles](https://www.mixtiles.com/){:target="_blank"},
-[DeepChecks](https://www.deepchecks.com/){:target="_blank"},
-[Nielsen](https://nielsensports.com/){:target="_blank"},
-[LuxuryEscapes](https://luxuryescapes.com/){:target="_blank"},
+[Deci.ai](https://www.nvidia.com){:target="_blank"},
+[Lemonade](https://www.lemonade.com){:target="_blank"},
+[Mixtiles](https://www.mixtiles.com){:target="_blank"},
+[Papaya-Global](https://www.papayaglobal.com){:target="_blank"},
+[Simply](https://www.hellosimply.com){:target="_blank"}, 
 and more.
 
 See my [LinkedIn profile](https://www.linkedin.com/in/nir-ben-zvi/){:target="_blank"} for a more detailed background and [recent list of clients](https://www.linkedin.com/in/nir-ben-zvi/details/experience/){:target="_blank"}.
