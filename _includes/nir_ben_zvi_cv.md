@@ -11,7 +11,7 @@
 
 ## Professional Experience
 
-**Computer Vision/NLP Freelancer/Consultant** (2021-present)
+**Computer Vision/NLP Freelancer and Consultant** (2021-present)
 
 * Freelance **machine learning architect/applied researcher** working on the cutting edge of **images, videos and text**.  
 * Owning the full machine learning development lifecycle-problem definition, data pipeline design, model development, evaluation, and production deployment.  
