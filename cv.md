@@ -11,10 +11,6 @@ share-description: My full curriculum vitae, covering my entire professional exp
 {% include {{page.cv_filename}}.md %}
 {% endcapture %}
 
-<div id="cv-content">
-  {{ cv_content | markdownify }}
-</div>
-
 <ul class="list-inline text-center footer-links">
   <li class="list-inline-item">
     <a id="download-pdf" href="#" title="Download PDF">
@@ -26,6 +22,10 @@ share-description: My full curriculum vitae, covering my entire professional exp
     </a>
   </li>
 </ul>
+
+<div id="cv-content">
+  {{ cv_content | markdownify }}
+</div>
 
 <script>
 document.getElementById("download-pdf").addEventListener("click", (e) => {
