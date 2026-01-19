@@ -23,7 +23,7 @@
 
 **Computer Vision Research Manager, Trigo** (2018-2021)
 
-* *Founding engineer* and the **first computer vision hire**.
+* **Founding engineer** and the **first computer vision hire**.
 * Built Trigo's first deep learning models from scratch, **running in real-time in live supermarkets**.  
 * Led development of **object detection and real-time tracking models** optimized for deployment.  
 * Scaled machine learning R&D from garage phase (\<10 employees) to 100+ employees, **hiring and growing** top-tier ML researchers and engineers.  
