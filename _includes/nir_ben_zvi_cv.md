@@ -11,9 +11,9 @@
 
 ## Professional Experience
 
-**Machine Learning Freelancer/Consultant** (2021-present)
+**Computer Vision/NLP Freelancer/Consultant** (2021-present)
 
-* Freelance **machine learning architect/applied researcher** working on the cutting edge of **images, video and text**.  
+* Freelance **machine learning architect/applied researcher** working on the cutting edge of **images, videos and text**.  
 * Owning the full machine learning development lifecycle-problem definition, data pipeline design, model development, evaluation, and production deployment.  
 * Writing production-grade code for **generative image models** and **large language models**, as well as **object detection**, **semantic segmentation**, **knowledge graph traversal**, **agentic flows**, and more.  
 * Acting as a **technical leader and hands-on contributor**, driving ML strategy and execution across diverse organizations.  
@@ -23,7 +23,7 @@
 
 **Computer Vision Research Manager, Trigo** (2018-2021)
 
-* Part of the **founding team** and the **first computer vision hire**.  
+* *Founding engineer* and the **first computer vision hire**.
 * Built Trigo's first deep learning models from scratch, **running in real-time in live supermarkets**.  
 * Led development of **object detection and real-time tracking models** optimized for deployment.  
 * Scaled machine learning R&D from garage phase (\<10 employees) to 100+ employees, **hiring and growing** top-tier ML researchers and engineers.  
