@@ -7,7 +7,7 @@ where: GenML 2025 Conference
 cover-img: assets/img/genml25_cover.jpg
 thumbnail-img: assets/img/genml25_cover.jpg
 share-img: assets/img/genml25_cover.jpg
-redirect-url: https://machinelearning.co.il/lp-events/genml-2025/
+redirect-url: https://www.youtube.com/watch?v=kQ2IxmS_TC8
 ---
 
 AI hype is everywhere. After four years of building production-tested AI products, I still have to explain that LLMs aren't a drop-in fixes for classic data problems.

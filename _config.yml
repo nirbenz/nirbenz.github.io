@@ -41,7 +41,7 @@ medium_feed: nzvi
 navbar-links:
   About: "index"
   My Work: "professional"
-  Content: "content"
+  Talks: "content"
   Teaching:
     - CS231n: "cs231n"
     - Lectures: "lectures"
