@@ -107,7 +107,7 @@ With the basics in place, participants look at real production skills that autom
 - A `.mcp.json` wiring up at least one external tool
 - Understanding of the skills framework and how it unifies configuration across tools
 - Understanding of when to use skills vs subagents
-- Access to the [dev-config](https://github.com/nirbenz/dev-config) reference repository and its setup script for bootstrapping future projects
+- Access to the [dev-config](https://github.com/<this-part-is-private>) reference repository and its setup script for bootstrapping future projects
 
 ## Prerequisites
 
