@@ -11,7 +11,7 @@ subtitle: An Introduction
 
 This problem is everywhere in those organizations - from daily standups to company-wide meetings - and even extremely experienced developers sometimes lack basic understanding of what their colleagues are talking about. Needless to say, this problem sometimes deepens outside the engineering and research groups of larger companies. 
 
-Watching this knowledge gap over the years, I have composed a 1.5* hour lecture that successfully demonstrates what deep learning is.
+Watching this knowledge gap over the years, I have composed a 1.5\* hour lecture that successfully demonstrates what deep learning is.
 This lecture is relevant to both people with vast technical and mathematical knowledge (but no machine or deep learning backgrounds) and to non-R&D employees who want to know what is being talked about around them.
 
 My talk intentionally lacks formulas, uses mostly visual aids and can be dynamically adapted to its audience technical level.
