@@ -13,7 +13,7 @@ I help teams ship ML systems that have meaningful business impact - from problem
 
 **I am a full-stack ML architect/applied researcher**, meaning I own the full lifecycle: research, data, modeling, training, evaluation, deployment. I have done this for both early-stage startups and large organizations.
 
-**I love machine learning.** Yep, I literally love what I do, which means I'm always up to date. I've been working with **images, videos and text** for more than 15 years. These days a lot of that is generative models - using whichever approach is right for the job. I also have a far-reaching background in computer graphics and classical image processing (that's actually where I started).
+**I love computer vision.** Yep, I literally love what I do, which means I'm always up to date. I've been working with **images, videos and text** for more than 15 years. These days a lot of that is generative models - using whichever approach is right for the job. I also have a far-reaching background in computer graphics and classical image processing (that's actually where I started).
 
 **I specialize in NLP/LLMs.** A significant portion of my current work is making LLMs useful in production: *Real* agentic flows, RAG systems, large-scale knowledge graphs (and traversal), and the evaluation + engineering needed to make them reliable and testable. My dual focus is a unique fit for products that bridge visual and textual domains such as VLMs.
 
