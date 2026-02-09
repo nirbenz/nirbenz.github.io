@@ -5,17 +5,17 @@ subtitle: What I actually do
 cover-img: assets/img/tamar_img_exp.jpg
 ---
 
-***tl;dr** I solve product and research problems that require ML/AI - especially computer vision, LLMs, and multimodal systems.*
+***tl;dr** I solve product and research problems that require ML/AI - LLMs, computer vision and multimodal.*
 
 ## In a Nutshell
 
 I help teams ship ML systems that have meaningful business impact - from problem framing and data pipelines, through model development and evaluation, to production deployment. My core domains are computer vision (images/video) and NLP/LLMs.
 
-**I am a full-stack ML architect/applied researcher**, meaning I own the full lifecycle: research, data, training, evaluation, deployment. I have done this for both early-stage startups and large organizations.
+**I am a full-stack ML architect/applied researcher**, meaning I own the full lifecycle: research, data, modeling, training, evaluation, deployment. I have done this for both early-stage startups and large organizations.
 
-**I love computer vision.** Yep, I literally love what I do, which means I'm always up to date. I've been working with images and videos for more than 10 years. These days a lot of that is generative work as well - using whichever approach is the right tool for the job. I also have a far-reaching background in computer graphics and classical image processing (that's actually where I started).
+**I love machine learning.** Yep, I literally love what I do, which means I'm always up to date. I've been working with **images, videos and text** for more than 15 years. These days a lot of that is generative models - using whichever approach is right for the job. I also have a far-reaching background in computer graphics and classical image processing (that's actually where I started).
 
-**But I also specialize in NLP/LLMs.** In recent years, a significant portion of my work has been about making LLMs useful in production: RAG systems, large-scale knowledge graphs (and traversal), *real* agentic workflows, and the evaluation + engineering needed to make them reliable and testable. This dual focus is especially handy for projects that bridge visual and textual domains.
+**I specialize in NLP/LLMs.** A significant portion of my current work is making LLMs useful in production: *Real* agentic flows, RAG systems, large-scale knowledge graphs (and traversal), and the evaluation + engineering needed to make them reliable and testable. My dual focus is a unique fit for products that bridge visual and textual domains such as VLMs.
 
 **I also consider myself a capable software engineer** with a strong grasp of both Python and the usual collection of auxiliary tools/frameworks my work often requires. This includes everything from managing annotation databases to querying them - and building the tooling around them (e.g., vector search and analytics infrastructure).
 

@@ -11,12 +11,12 @@
 
 ## Professional Experience
 
-**Computer Vision/NLP Freelancer and Consultant** (2021-present)
+**NLP/Computer Vision Freelancer and Consultant** (2021-present)
 
 * Freelance **machine learning architect/applied researcher** working on the cutting edge of **images, videos and text**.  
 * Owning the full machine learning development lifecycle-problem definition, data pipeline design, model development, evaluation, and production deployment.  
-* Writing production-grade code for **generative image models** and **large language models**, as well as **object detection**, **semantic segmentation**, **knowledge graph traversal**, **agentic flows**, and more.  
-* Acting as a **technical leader and hands-on contributor**, driving ML strategy and execution across diverse organizations.  
+* Writing production-grade code for **large language models (LLMs)** and **generative image models**; **knowledge graph traversal**, **agentic flows**, **object detection**, **semantic segmentation**, and more.  
+* Acting as a **technical leader and hands-on contributor**, driving AI strategy and execution across diverse organizations.  
 * Building research-driven solutions beyond off-the-shelf models, with measurable business impact.  
 * **Partial list of clients**:  
 [Keep](https://www.keephq.dev/){:target="_blank"} (Acq. by Elasticsearch), [Mixtiles](https://mixtiles.com/){:target="_blank"}, [Simply](https://hellosimply.com/){:target="_blank"}, [Deci.AI](https://www.deci.ai){:target="_blank"} (Acq. by NVIDIA), [Lemonade](https://www.lemonade.com/){:target="_blank"} (*\$LMND*), [CommonGround](https://www.apple.com){:target="_blank"} (Acq. by Apple), [DeepChecks](https://www.deepchecks.com){:target="_blank"}, [Oddity](https://oddity.com){:target="_blank"} (*\$ODD*), [Papaya-Global](https://www.papayaglobal.com){:target="_blank"}, [Honeybook](https://www.honeybook.com){:target="_blank"}, [Clover](https://www.clover.security){:target="_blank"}, and many more.
