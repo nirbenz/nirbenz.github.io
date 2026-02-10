@@ -15,11 +15,12 @@
 
 * Freelance **machine learning architect/applied researcher** working on the cutting edge of **images, videos and text**.  
 * Owning the full machine learning development lifecycle-problem definition, data pipeline design, model development, evaluation, and production deployment.  
+* Training **very large, state-of-the-art open source models** (billions of parameters) on multi-GPU setups.
 * Writing production-grade code for **large language models (LLMs)** and **generative image models**; **knowledge graph traversal**, **agentic flows**, **object detection**, **semantic segmentation**, and more.  
 * Acting as a **technical leader and hands-on contributor**, driving AI strategy and execution across diverse organizations.  
-* Building research-driven solutions beyond off-the-shelf models, with measurable business impact.  
+* Building research-driven solutions beyond off-the-shelf models, with measurable business impact.
 * **Partial list of clients**:  
-[Keep](https://www.keephq.dev/){:target="_blank"} (Acq. by Elasticsearch), [Mixtiles](https://mixtiles.com/){:target="_blank"}, [Simply](https://hellosimply.com/){:target="_blank"}, [Deci.AI](https://www.deci.ai){:target="_blank"} (Acq. by NVIDIA), [Lemonade](https://www.lemonade.com/){:target="_blank"} (*\$LMND*), [CommonGround](https://www.apple.com){:target="_blank"} (Acq. by Apple), [DeepChecks](https://www.deepchecks.com){:target="_blank"}, [Oddity](https://oddity.com){:target="_blank"} (*\$ODD*), [Papaya-Global](https://www.papayaglobal.com){:target="_blank"}, [Honeybook](https://www.honeybook.com){:target="_blank"}, [Clover](https://www.clover.security){:target="_blank"}, and many more.
+[Keep](https://www.keephq.dev/){:target="_blank"} (Acq. by Elasticsearch), [Mixtiles](https://mixtiles.com/){:target="_blank"}, [Simply](https://hellosimply.com/){:target="_blank"}, [Deci.AI](https://www.deci.ai){:target="_blank"} (Acq. by NVIDIA), [Lemonade](https://www.lemonade.com/){:target="_blank"} (*\$LMND*), [CommonGround](https://www.apple.com){:target="_blank"} (Acq. by Apple), [DeepChecks](https://www.deepchecks.com){:target="_blank"}, [Oddity](https://oddity.com){:target="_blank"} (*\$ODD*), [Papaya-Global](https://www.papayaglobal.com){:target="_blank"}, [Honeybook](https://www.honeybook.com){:target="_blank"}, [Clover Security](https://www.clover.security){:target="_blank"}, and many more.
 
 **Computer Vision Research Manager, Trigo** (2018-2021)
 
@@ -81,7 +82,7 @@ Alexander Lorbert, **Nir Ben-Zvi**, Arridhana Ciptadi, Eduard Oks, Ambrish Tyagi
 
 * **10+ years of experience** writing Python research and production code on top of POSIX systems.  
 * Data processing; **postgresql** (inc. **pgvector**), **bigquery**, **snowflake** as well as current vector-dbs (currently in love with **Qdrant**).  
-* Thorough knowledge of **deep learning hardware**, compute pipelines and model throughput optimization (**ONNX, TRT, etc.**).  
+* Thorough knowledge of **deep learning hardware**, compute/data pipelines and model throughput optimization (**ONNX, TRT, etc.**).  
 * Full proficiency with common 3D, video and image editing tools (Blender, Photoshop, Lightroom, Illustrator).
 * Hardware geek; spec'd (and built!) enterprise-grade GPU rackmounts for ML training/inference.
 
