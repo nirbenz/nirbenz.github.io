@@ -5,6 +5,8 @@
     <td style="border: none;"><a href="mailto:me@nirbenzvi.com">Email</a></td>
     <td style="border: none;"><a href="https://www.nirbenzvi.com">Website</a></td>
     <td style="border: none;"><a href="http://linkedin.com/in/nir-ben-zvi">LinkedIn</a></td>
+    <td style="border: none;"><a href="https://github.com/nirbenz/">GitHub</a></td>
+    <td style="border: none;"><a href="https://x.com/nir_benz">X</a></td>
     <td style="border: none;"><a href="tel:0545-864-729">Phone</a></td>
   </tr>
 </table>
@@ -14,7 +16,8 @@
 **NLP/Computer Vision Freelancer and Consultant** (2021-present)
 
 * Freelance **machine learning architect/applied researcher** spanning **images, video and language**.
-* Owning the **full machine learning lifecycle** from definition to deployment, driving AI strategy and delivering research-driven solutions with **measurable business impact** across diverse organizations.
+* Owning the **full machine learning lifecycle** from definition to deployment, driving AI strategy and delivering research-driven solutions with **measurable business impact**.
+* Working with tiny startups and huge publicly traded corporations alike.
 * Training **state-of-the-art open source models** on multi-GPU setups.
 * Designing **LLM evaluation pipelines**, including automated benchmarks and **LLM-as-a-judge** methodologies.
 * Writing production-grade code across **LLMs**, **generative image models**, **agentic flows**, **retrieval/RAG**, **object detection**, and **semantic segmentation**.  
