@@ -23,6 +23,9 @@ The workshop is accompanied by an introductiory lecture for retrieval/RAG, as we
 - A shorter, no-coding format can also be chosen.
 - Works well for groups of 5-20. Larger groups benefit from a TA.
 
+## Prerequisites
+Sent ahead of time: Set API keys, clone and install project repo and successfully run examples. API key should support both embeddings and chat models.
+
 ## Syllabus
 
 | Time         | Phase | Topic                                                                                          |
