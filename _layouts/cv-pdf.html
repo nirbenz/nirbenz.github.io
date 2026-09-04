@@ -49,9 +49,14 @@ common-ext-css:
       size: A4;
       margin: 0.9cm;
     }
+    /* Bootstrap's print stylesheet pins the body to 992px and Chromium
+       shrinks that layout to fit the printable width, which is what sets
+       the text scale of the PDF. A slightly narrower layout makes long
+       lines wrap a little earlier. */
     body {
       padding: 0;
       margin: 0;
+      min-width: 960px !important;
     }
     #cv-content > *:first-child {
       margin-top: 0;
