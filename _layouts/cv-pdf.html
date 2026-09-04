@@ -25,6 +25,11 @@ common-ext-css:
     #cv-content > *:first-child {
       margin-top: 0;
     }
+    /* Pull a role's bullets up under its title instead of leaving the
+       theme's full paragraph margin between them. */
+    #cv-content p:has(+ ul) {
+      margin-bottom: 0.5rem;
+    }
     /* Never split an entry (title + bullets, with the headings above it)
        or a single bullet across pages. */
     .cv-entry, li {
