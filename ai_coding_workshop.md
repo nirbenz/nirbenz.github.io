@@ -11,7 +11,7 @@ My goal is to create a compact, hands-on workshop for learning how to use the mo
 
 Over the past 3 years I have found myself changing tooling multiple times. So my goal is to not only teach what the "latest and greatest" is - as that can change fast - but rather to adapt people's workflows into ones that can allow such fast changes.
 
-Practically speaking - in this 1.5-2.5\* hour-workshop I will present **how I work** using **Cursor** and **Claude Code**. My goal is to cover initial set-up all the way to advanced tooling such as *subagents* and *skills*, explain how they interact, how they can use eachother, and how to create your own.
+Practically speaking - in this 1.5-2.5\* hour-workshop I will present **how I work** using **Cursor** and **Claude Code**. My goal is to cover initial set-up all the way to advanced tooling such as *subagents*, *skills* and *hooks*, explain how they interact, how they can use eachother, and how to create your own.
 
 The workshop is "code-first": participants are going to be using their own laptops on a shared codebase that has the basics ready for learning and enhancements.
 
