@@ -25,10 +25,36 @@ common-ext-css:
     #cv-content > *:first-child {
       margin-top: 0;
     }
+    /* Never split an entry (title + bullets, with the headings above it)
+       or a single bullet across pages. */
+    .cv-entry, li {
+      break-inside: avoid;
+    }
+    h1, h2, h3, h6, hr {
+      break-after: avoid;
+    }
   </style>
 
   <div id="cv-content">
     {{ content }}
   </div>
+
+  <script>
+    // Group headings with the entry below them, and each title paragraph
+    // with the lists that follow it, so a page break never lands inside one.
+    const root = document.getElementById("cv-content");
+    const isHeading = (el) => /^(H[1-6]|HR)$/.test(el.tagName);
+    let group = [];
+    for (const el of Array.from(root.children)) {
+      group.push(el);
+      const next = el.nextElementSibling;
+      if (isHeading(el) || (next && next.tagName === "UL")) continue;
+      const wrapper = document.createElement("div");
+      wrapper.className = "cv-entry";
+      group[0].before(wrapper);
+      wrapper.append(...group);
+      group = [];
+    }
+  </script>
 </body>
 </html>
