@@ -1,13 +1,15 @@
 # Nir Ben Zvi
 
-<div style="display: flex; flex-wrap: wrap; column-gap: 1.5rem; row-gap: 0.25rem; margin: 0.5rem 0;">
-  <a href="mailto:me@nirbenzvi.com">Email</a>
-  <a href="https://www.nirbenzvi.com">Website</a>
-  <a href="http://linkedin.com/in/nir-ben-zvi">LinkedIn</a>
-  <a href="https://github.com/nirbenz/">GitHub</a>
-  <a href="https://x.com/nir_benz">X</a>
-  <a href="tel:0545-864-729">Phone</a>
-</div>
+<table class="cv-links" style="width: 100%; text-align: left; border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none;"><a href="mailto:me@nirbenzvi.com">Email</a></td>
+    <td style="border: none;"><a href="https://www.nirbenzvi.com">Website</a></td>
+    <td style="border: none;"><a href="http://linkedin.com/in/nir-ben-zvi">LinkedIn</a></td>
+    <td style="border: none;"><a href="https://github.com/nirbenz/">GitHub</a></td>
+    <td style="border: none;"><a href="https://x.com/nir_benz">X</a></td>
+    <td style="border: none;"><a href="tel:0545-864-729">Phone</a></td>
+  </tr>
+</table>
 
 ## Professional Experience
 

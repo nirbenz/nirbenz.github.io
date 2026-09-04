@@ -44,6 +44,21 @@ document.getElementById("download-pdf").addEventListener("click", (e) => {
 </script>
 
 <style>
+/* Keep the table for print (it lays out cleanly in the PDF), but let the
+   cells wrap on narrow screens instead of squeezing six columns. */
+@media screen and (max-width: 600px) {
+  #cv-content .cv-links tr {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 1.5rem;
+    row-gap: 0.25rem;
+  }
+  #cv-content .cv-links td {
+    display: block;
+    padding: 0;
+  }
+}
+
 @media print {
   /* Hide everything except the CV content */
   html, body {
