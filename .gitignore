@@ -12,3 +12,6 @@ Gemfile.lock
 
 beautiful-jekyll-theme-*.gem
 .claude/**
+
+# rendered by scripts/render_cv_pdf.py, deployed from _site
+assets/nir_ben_zvi_cv.pdf

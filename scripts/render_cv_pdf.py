@@ -5,10 +5,15 @@
 """Render the CV page to a PDF with headless Chromium.
 
 Builds the site, serves the ``_site`` directory locally and prints the
-``/cv-pdf/`` page to ``assets/nir_ben_zvi_cv.pdf``. Run with::
+``/cv-pdf/`` page to ``_site/assets/nir_ben_zvi_cv.pdf``, where the Pages
+workflow picks it up as part of the deployed site. The PDF is not tracked in
+git. Run locally with::
 
     uv run --with playwright playwright install chromium
     uv run scripts/render_cv_pdf.py
+
+Pass ``--output`` to write the PDF somewhere else while debugging, and
+``--skip-build`` to reuse an existing ``_site`` build.
 """
 
 import argparse
@@ -23,7 +28,7 @@ from playwright.sync_api import sync_playwright
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SITE_DIR = REPO_ROOT / "_site"
-OUTPUT = REPO_ROOT / "assets" / "nir_ben_zvi_cv.pdf"
+OUTPUT = SITE_DIR / "assets" / "nir_ben_zvi_cv.pdf"
 PAGE_PATH = "/cv-pdf/"
 
 
@@ -60,6 +65,7 @@ def main() -> None:
     base_url = f"http://127.0.0.1:{server.server_port}"
     logger.debug("Serving {} at {}", SITE_DIR, base_url)
 
+    args.output.parent.mkdir(parents=True, exist_ok=True)
     try:
         render_pdf(base_url, args.output)
     finally:
