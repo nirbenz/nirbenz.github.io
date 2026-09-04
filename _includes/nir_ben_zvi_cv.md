@@ -13,7 +13,7 @@
 
 ## Professional Experience
 
-**NLP/Computer Vision Freelancer and Consultant** (2021-present)
+**ML/AI Consultant and Fractional Head of Research** (2021-present)
 
 * Freelance **machine learning architect/applied researcher** spanning **images, video and language**.
 * Owning the **full machine learning lifecycle** from definition to deployment, driving AI strategy and delivering research-driven solutions with **measurable business impact**.
