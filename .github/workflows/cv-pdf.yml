@@ -7,6 +7,7 @@ on:
       - cv-pdf.md
       - _layouts/cv-pdf.html
       - assets/css/**
+      - assets/fonts/**
       - scripts/render_cv_pdf.py
       - .github/workflows/cv-pdf.yml
   workflow_dispatch:

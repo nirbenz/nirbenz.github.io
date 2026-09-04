@@ -4,8 +4,6 @@ common-css:
 common-ext-css:
   - href: "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
     sri: "sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
-  - "https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic"
-  - "https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
 ---
 
 <!DOCTYPE html>
@@ -14,6 +12,39 @@ common-ext-css:
 
 <body>
   <style>
+    /* Static instances built by scripts/build_print_fonts.py. Google Fonts
+       serves these families as variable fonts, which Chromium's PDF backend
+       cannot embed; it falls back to bitmap glyphs and the text looks blurry. */
+    @font-face {
+      font-family: "Lora";
+      font-weight: 400;
+      font-style: normal;
+      src: url({{ "/assets/fonts/lora-400.woff2" | relative_url }}) format("woff2");
+    }
+    @font-face {
+      font-family: "Lora";
+      font-weight: 700;
+      font-style: normal;
+      src: url({{ "/assets/fonts/lora-700.woff2" | relative_url }}) format("woff2");
+    }
+    @font-face {
+      font-family: "Lora";
+      font-weight: 400;
+      font-style: italic;
+      src: url({{ "/assets/fonts/lora-400-italic.woff2" | relative_url }}) format("woff2");
+    }
+    @font-face {
+      font-family: "Lora";
+      font-weight: 700;
+      font-style: italic;
+      src: url({{ "/assets/fonts/lora-700-italic.woff2" | relative_url }}) format("woff2");
+    }
+    @font-face {
+      font-family: "Open Sans";
+      font-weight: 800;
+      font-style: normal;
+      src: url({{ "/assets/fonts/opensans-800.woff2" | relative_url }}) format("woff2");
+    }
     @page {
       size: A4;
       margin: 0.9cm;
