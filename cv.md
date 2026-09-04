@@ -29,6 +29,12 @@ share-description: My full cv, covering my entire professional experience.
 
 
 <style>
+/* Pull a role's bullets up under its title instead of leaving the
+   theme's full paragraph margin between them. */
+#cv-content p:has(+ ul) {
+  margin-bottom: 0.5rem;
+}
+
 /* Keep the table for print (it lays out cleanly in the PDF), but let the
    cells wrap on narrow screens instead of squeezing six columns. */
 @media screen and (max-width: 600px) {
