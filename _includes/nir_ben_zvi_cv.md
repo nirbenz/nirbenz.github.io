@@ -13,13 +13,9 @@
 
 ## Professional Experience
 
-###### Applied ML Scientist & Research Lead | Vision, Language & Multimodal
-
----
-
 **ML/AI Consultant and Fractional Head of Research** (2021-present)
 
-* Freelance **machine learning architect and research lead** spanning **vision, video, language and multimodal systems**.
+* Freelance **applied ML scientist and research lead** spanning **vision, video, language and multimodal systems**.
 * Owning the **full machine learning lifecycle**, from problem definition, data and modeling through evaluation, production code and deployment.
 * Working with companies ranging from early-stage startups to large public corporations, from **hands-on research to fractional research leadership**.
 * Training and deploying **state-of-the-art open-source models**, including on **multi-node, multi-GPU systems**.
@@ -42,7 +38,7 @@
 * Researched, trained and deployed **computer vision models for Amazon's consumer devices**, including the Echo Look and the Echo Show.  
 * Led research efforts for the group's **first deep-learning-based object detection models** used in production.  
 * Worked **end-to-end** on ML research, from whiteboard concepts to **production-grade implementations** in Amazon products.  
-* **Central technical reference point for computer vision research and infrastructure** within the org, staying ahead of cutting-edge developments.
+* **Central technical reference point for computer vision research and infrastructure** within the org, evaluating emerging research, methods and tooling.
 * Contributed to Amazon's (discontinued) **MXNet deep learning framework**.
 
 **Computer Vision Algorithm Engineer, Donde Search (Acquired by Shopify)** (2015)
@@ -57,8 +53,8 @@
 
 ## Education
 
-* **M.Sc, Computer Science, The Hebrew University of Jerusalem** (2013 - 2015)  
-* **B.Sc, Computer Science, The Hebrew University of Jerusalem** (2010 - 2013)  
+* **M.Sc., Computer Science, The Hebrew University of Jerusalem** (2013 - 2015)  
+* **B.Sc., Computer Science, The Hebrew University of Jerusalem** (2010 - 2013)  
 * **Minor in Visual Communications, Bezalel Academy of Art and Design** (2010-2014)
 
 ## Publications
