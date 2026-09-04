@@ -1,8 +1,9 @@
 
 source "http://rubygems.org"
 
-# Theme
-gem "github-pages", "~> 228", group: :jekyll_plugins
+# Matches the GitHub Pages build exactly. Run locally with:
+#   bundle exec jekyll serve --future
+gem "github-pages", "~> 232", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem 'feedjira', '~> 2.0'
