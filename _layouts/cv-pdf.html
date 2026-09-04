@@ -4,8 +4,6 @@ common-css:
 common-ext-css:
   - href: "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
     sri: "sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
-  - "https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic"
-  - "https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
 ---
 
 <!DOCTYPE html>
@@ -14,16 +12,59 @@ common-ext-css:
 
 <body>
   <style>
+    /* Static instances built by scripts/build_print_fonts.py. Google Fonts
+       serves these families as variable fonts, which Chromium's PDF backend
+       cannot embed; it falls back to bitmap glyphs and the text looks blurry. */
+    @font-face {
+      font-family: "Lora";
+      font-weight: 400;
+      font-style: normal;
+      src: url({{ "/assets/fonts/lora-400.woff2" | relative_url }}) format("woff2");
+    }
+    @font-face {
+      font-family: "Lora";
+      font-weight: 700;
+      font-style: normal;
+      src: url({{ "/assets/fonts/lora-700.woff2" | relative_url }}) format("woff2");
+    }
+    @font-face {
+      font-family: "Lora";
+      font-weight: 400;
+      font-style: italic;
+      src: url({{ "/assets/fonts/lora-400-italic.woff2" | relative_url }}) format("woff2");
+    }
+    @font-face {
+      font-family: "Lora";
+      font-weight: 700;
+      font-style: italic;
+      src: url({{ "/assets/fonts/lora-700-italic.woff2" | relative_url }}) format("woff2");
+    }
+    @font-face {
+      font-family: "Open Sans";
+      font-weight: 800;
+      font-style: normal;
+      src: url({{ "/assets/fonts/opensans-800.woff2" | relative_url }}) format("woff2");
+    }
     @page {
       size: A4;
       margin: 0.9cm;
     }
+    /* Bootstrap's print stylesheet pins the body to 992px and Chromium
+       shrinks that layout to fit the printable width, which is what sets
+       the text scale of the PDF. A slightly narrower layout makes long
+       lines wrap a little earlier. */
     body {
       padding: 0;
       margin: 0;
+      min-width: 960px !important;
     }
     #cv-content > *:first-child {
       margin-top: 0;
+    }
+    /* Pull a role's bullets up under its title instead of leaving the
+       theme's full paragraph margin between them. */
+    #cv-content p:has(+ ul) {
+      margin-bottom: 0.5rem;
     }
     /* Never split an entry (title + bullets, with the headings above it)
        or a single bullet across pages. */
