@@ -13,15 +13,19 @@
 
 ## Professional Experience
 
+###### Applied ML Scientist & Research Lead | Vision, Language & Multimodal
+
+---
+
 **ML/AI Consultant and Fractional Head of Research** (2021-present)
 
-* Freelance **machine learning architect/applied researcher** spanning **images, video and language**.
-* Owning the **full machine learning lifecycle** from definition to deployment, driving AI strategy and delivering research-driven solutions with **measurable business impact**.
-* Working with tiny startups and huge publicly traded corporations alike.
-* Training **state-of-the-art open source models** on multi-node-GPU setups.
-* Writing production-grade code for;
-  * Computer Vision: **diffusion/flow-models**, **vlms and video models**, **segmentation, detection, classification**.
-  * Langauge/Text: **complex agentic flows**, **retrieval/RAG**, **harness design**, **LLM evaluation suites/benchmarks** and **on-prem/remote hosting**.
+* Freelance **machine learning architect and research lead** spanning **vision, video, language and multimodal systems**.
+* Owning the **full machine learning lifecycle**, from problem definition, data and modeling through evaluation, production code and deployment.
+* Working with companies ranging from early-stage startups to large public corporations, from **hands-on research to fractional research leadership**.
+* Training and deploying **state-of-the-art open-source models**, including on **multi-node, multi-GPU systems**.
+* Production work includes:
+  * Computer Vision: **diffusion/flow models**, **VLMs and video models**, **segmentation, detection and classification**.
+  * Language/LLMs: **complex agentic systems**, **retrieval/RAG**, **harness design**, **LLM evaluation suites and benchmarks**, and **on-prem/remote model serving**.
 * **Partial list of clients**:  
 [Keep](https://www.keephq.dev/){:target="_blank"} (Acq. by Elasticsearch), [Mixtiles](https://mixtiles.com/){:target="_blank"}, [Simply](https://hellosimply.com/){:target="_blank"}, [Deci.AI](https://www.deci.ai){:target="_blank"} (Acq. by NVIDIA), [Lemonade](https://www.lemonade.com/){:target="_blank"} (*\$LMND*), [CommonGround](https://www.apple.com){:target="_blank"} (Acq. by Apple), [DeepChecks](https://www.deepchecks.com){:target="_blank"}, [Oddity](https://oddity.com){:target="_blank"} (*\$ODD*), [Papaya-Global](https://www.papayaglobal.com){:target="_blank"}, [Honeybook](https://www.honeybook.com){:target="_blank"}, [Clover Security](https://www.clover.security){:target="_blank"}, and many more.
 
@@ -38,8 +42,8 @@
 * Researched, trained and deployed **computer vision models for Amazon's consumer devices**, including the Echo Look and the Echo Show.  
 * Led research efforts for the group's **first deep-learning-based object detection models** used in production.  
 * Worked **end-to-end** on ML research, from whiteboard concepts to **production-grade implementations** in Amazon products.  
-* **Key deep learning research and infrastructure evaluator** within the team, staying ahead of cutting-edge developments.  
-* Participated and contributed to Amazon's (discontinued) MXNet deep learning framework.
+* **Central technical reference point for computer vision research and infrastructure** within the org, staying ahead of cutting-edge developments.
+* Contributed to Amazon's (discontinued) **MXNet deep learning framework**.
 
 **Computer Vision Algorithm Engineer, Donde Search (Acquired by Shopify)** (2015)
 
