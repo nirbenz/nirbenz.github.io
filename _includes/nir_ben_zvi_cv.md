@@ -18,9 +18,9 @@
 * Freelance **machine learning architect/applied researcher** spanning **images, video and language**.
 * Owning the **full machine learning lifecycle** from definition to deployment, driving AI strategy and delivering research-driven solutions with **measurable business impact**.
 * Working with tiny startups and huge publicly traded corporations alike.
-* Training **state-of-the-art open source models** on multi-GPU setups.
-* Designing **LLM evaluation pipelines**, including automated benchmarks and **LLM-as-a-judge** methodologies.
-* Writing production-grade code across **LLMs**, **generative image models**, **agentic flows**, **retrieval/RAG**, **object detection**, and **semantic segmentation**.  
+* Training **state-of-the-art open source models** on multi-node-GPU setups.
+* Computer vision examples: **diffusion/flow-models**, **vlms and video models**, **segmentation, detection, classification**.
+* Langauge/Text examples: **complex agentic flows**, **retrieval/RAG**, **harness design**, **LLM evaluation suites/benchmarks** and **on-prem/remote hosting**.
 * **Partial list of clients**:  
 [Keep](https://www.keephq.dev/){:target="_blank"} (Acq. by Elasticsearch), [Mixtiles](https://mixtiles.com/){:target="_blank"}, [Simply](https://hellosimply.com/){:target="_blank"}, [Deci.AI](https://www.deci.ai){:target="_blank"} (Acq. by NVIDIA), [Lemonade](https://www.lemonade.com/){:target="_blank"} (*\$LMND*), [CommonGround](https://www.apple.com){:target="_blank"} (Acq. by Apple), [DeepChecks](https://www.deepchecks.com){:target="_blank"}, [Oddity](https://oddity.com){:target="_blank"} (*\$ODD*), [Papaya-Global](https://www.papayaglobal.com){:target="_blank"}, [Honeybook](https://www.honeybook.com){:target="_blank"}, [Clover Security](https://www.clover.security){:target="_blank"}, and many more.
 
