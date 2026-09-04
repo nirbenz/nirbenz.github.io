@@ -1,0 +1,60 @@
+---
+common-css:
+  - "/assets/css/beautifuljekyll.css"
+common-ext-css:
+  - href: "https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    sri: "sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+  - "https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic"
+  - "https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800"
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.language | default: site.language | default: 'en' }}">
+{% include head.html %}
+
+<body>
+  <style>
+    @page {
+      size: A4;
+      margin: 0.9cm;
+    }
+    body {
+      padding: 0;
+      margin: 0;
+    }
+    #cv-content > *:first-child {
+      margin-top: 0;
+    }
+    /* Never split an entry (title + bullets, with the headings above it)
+       or a single bullet across pages. */
+    .cv-entry, li {
+      break-inside: avoid;
+    }
+    h1, h2, h3, h6, hr {
+      break-after: avoid;
+    }
+  </style>
+
+  <div id="cv-content">
+    {{ content }}
+  </div>
+
+  <script>
+    // Group headings with the entry below them, and each title paragraph
+    // with the lists that follow it, so a page break never lands inside one.
+    const root = document.getElementById("cv-content");
+    const isHeading = (el) => /^(H[1-6]|HR)$/.test(el.tagName);
+    let group = [];
+    for (const el of Array.from(root.children)) {
+      group.push(el);
+      const next = el.nextElementSibling;
+      if (isHeading(el) || (next && next.tagName === "UL")) continue;
+      const wrapper = document.createElement("div");
+      wrapper.className = "cv-entry";
+      group[0].before(wrapper);
+      wrapper.append(...group);
+      group = [];
+    }
+  </script>
+</body>
+</html>
